@@ -10,8 +10,9 @@ function Projects() {
       description:
         "AirGust provides expert solar installation, aircon repair, and maintenance services—helping homes and businesses stay cool, efficient, and energy-smart.",
       technologies: ["PHP", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com",
-      demo: "https://demo.com",
+      github:
+        "https://christine2850.github.io/airgust_project/AirGust%20Web/LandingPage.html",
+      demo: "https://christine2850.github.io/airgust_project/AirGust%20Web/LandingPage.html",
       image: airgustImg,
     },
     {
