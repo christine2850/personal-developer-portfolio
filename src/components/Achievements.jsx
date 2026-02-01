@@ -14,7 +14,7 @@ function Achievements() {
     },
     {
       type: "achievement",
-      title: "Hackathon Winner<br/>",
+      title: "JavaScript Hackathon Winner",
       issuer: "University Tech Fest 2024",
       date: "2024",
       description:
@@ -24,7 +24,7 @@ function Achievements() {
     },
     {
       type: "certification",
-      title: "JavaScript Algorithms and Data Structures",
+      title: "Algorithms and Data Structures",
       issuer: "freeCodeCamp",
       date: "2023",
       description:
@@ -40,6 +40,26 @@ function Achievements() {
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       icon: "🔧",
+      badge: null,
+    },
+    {
+      type: "certification",
+      title: "Responsive Web Design Certificate",
+      issuer: "freeCodeCamp",
+      date: "2023",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      icon: "📱",
+      badge: null,
+    },
+    {
+      type: "achievement",
+      title: "Student Leadership Award",
+      issuer: "Computer Science Club",
+      date: "2023-2024",
+      description:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      icon: "👥",
       badge: null,
     },
   ];
