@@ -1,4 +1,5 @@
 import { Container, Row, Col, Button } from "react-bootstrap";
+import resumePdf from "../assets/resume.pdf";
 
 function Hero() {
   const handleContactClick = (e) => {
@@ -67,7 +68,7 @@ function Hero() {
                 variant="success"
                 size="lg"
                 className="mb-3"
-                href="/resume.pdf"
+                href={resumePdf}
                 download="Christine_Joy_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"

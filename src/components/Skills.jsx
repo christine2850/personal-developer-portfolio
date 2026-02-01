@@ -16,17 +16,17 @@ function Skills() {
       title: "Backend",
       skills: [
         { name: "PHP", level: 70 },
-        { name: "Laravel", level: 72 },
-        { name: "Python", level: 75 },
-        { name: "RESTful APIs", level: 75 },
-        { name: "Java", level: 70 },
+        { name: "Python", level: 72 },
+        { name: "Java", level: 75 },
+        { name: "MySQL/SQL", level: 75 },
+        { name: "RESTful APIs", level: 70 },
       ],
     },
     {
       title: "Tools & Others",
       skills: [
-        { name: "Git", level: 80 },
-        { name: "SQL/MySQL", level: 70 },
+        { name: "Git/Github", level: 80 },
+        { name: "Figma", level: 70 },
         { name: "MySQL Workbench", level: 68 },
         { name: "Visual Studio Code", level: 85 },
         { name: "Postman API Testing", level: 75 },

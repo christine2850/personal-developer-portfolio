@@ -1,4 +1,7 @@
 import { Container, Row, Col, Card, Button, Badge } from "react-bootstrap";
+import airgustImg from "../assets/airgust.png";
+import web1Img from "../assets/web1.jpg";
+import web2Img from "../assets/web2.jpg";
 
 function Projects() {
   const projects = [
@@ -9,7 +12,7 @@ function Projects() {
       technologies: ["PHP", "HTML", "CSS", "JavaScript"],
       github: "https://github.com",
       demo: "https://demo.com",
-      image: "/images/airgust.png",
+      image: airgustImg,
     },
     {
       title: "Health Website",
@@ -18,7 +21,7 @@ function Projects() {
       technologies: ["React", "JavaScript", "Chart.js", "CSS3"],
       github: "https://github.com",
       demo: "https://demo.com",
-      image: "/images/web2.jpg",
+      image: web2Img,
     },
     {
       title: "Blog Platform",
@@ -27,7 +30,7 @@ function Projects() {
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com",
       demo: "https://demo.com",
-      image: "/images/web1.jpg",
+      image: web1Img,
     },
   ];
 
